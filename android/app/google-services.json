@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "687487049127",
+    "project_id": "ex-books-88be2",
+    "storage_bucket": "ex-books-88be2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687487049127:android:9b17e487794f63c09faa82",
+        "android_client_info": {
+          "package_name": "com.exbooks.exbooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687487049127-5e51vikbv8ienhvleqho20osbqfsj0al.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exbooks.exbooks",
+            "certificate_hash": "64edf3a119221ddbeeffff967abe7d17f11e7791"
+          }
+        },
+        {
+          "client_id": "687487049127-l8bnec5c60n1jf829gm3167mah5h62b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBALn7bWAKg3UQMnFa2iOSmEbP7TR91qPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687487049127-l8bnec5c60n1jf829gm3167mah5h62b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
